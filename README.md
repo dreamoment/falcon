@@ -35,7 +35,7 @@ npm i @dreamoment/falcon
 ```
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
-import Falcon, { EventType } from '../package/index'
+import Falcon, { EventType } from '@dreamoment/falcon'
 
 
 const scene = new THREE.Scene()
